@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="<img width="1200" height="500" alt="Tambahkan judul" src="https://github.com/user-attachments/assets/1ce54497-cfe7-4692-b68c-339270882d5a" />
+" alt="Banner Profilku" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm kyuppie </h1>
 <h3 align="center">i just start coding,and want 2 improve my skill</h3>
 

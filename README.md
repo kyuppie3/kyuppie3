@@ -1,8 +1,3 @@
-<p align="center">
-  <img src=" [profile view counter on github]<img width="1200" height="500" alt="src="https://github.com/user-attachments/assets/136765fe-4329-45d9-b95d-30e8479e65e7" />
-"alt="Banner Profil" width="100%">
-</p>
-
 <h1 align="center">Hi 👋, I'm kyuppie </h1>
 <h3 align="center">i just start coding,and want 2 improve my skill</h3>
 

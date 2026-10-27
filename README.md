@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="![Uploading sua banner (1).png…]()
-" alt="sua banner" width="100%">
+  <img src="sua banner (1).png" alt="sua banner" width="100%">
 </p>
+
 <h1 align="center">Hi 👋, I'm kyuppie </h1>
 <h3 align="center">i just start coding,and want 2 improve my skill</h3>
 
